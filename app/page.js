@@ -22,8 +22,8 @@ export default function Home() {
       <div className="boxed_wrapper">
         <Layout headerStyle={1} footerStyle={1}>
           <Banner />
-          <Feature />
           <About />
+          <Feature />
           <Sunglasses />
           <Spectacles />
           <Contactlenses />
