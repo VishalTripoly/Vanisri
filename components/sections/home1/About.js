@@ -86,7 +86,7 @@ export default function About() {
               <div className="col-sm-6">
                 <div className="content-box">
                   <h3 className="wow slideInDown">
-                    <img src={"assets/images/icons/line.svg"} width={50} /> KNOW
+                    <img src={"/assets/images/icons/line.svg"} width={50} /> KNOW
                     US BETTER
                   </h3>
                   <h1

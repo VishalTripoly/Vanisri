@@ -14,7 +14,7 @@ export default function Spectacles() {
         <div
           className="bg-layer"
           style={{
-            backgroundImage: "url(assets/images/spectacles/spectacles.png)",
+            backgroundImage: "url(assets/images/banner/spectacles.png)",
           }}
         ></div>
         <div className="auto-container">

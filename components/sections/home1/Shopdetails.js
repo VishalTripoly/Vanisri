@@ -17,7 +17,7 @@ export default function Shopdetails() {
             <div
               className="bg-layer pb-5"
               style={{
-                backgroundImage: "url(/assets//images/banner/About-us.png)",
+                backgroundImage: "url(/assets/images/banner/About-us.png)",
                 height: "580px",
                 backgroundRepeat: "no-repeat",
                 width: "100%",
