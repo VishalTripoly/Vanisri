@@ -6,6 +6,8 @@ import "public/assets/css/responsive.css"
 import 'swiper/css'
 import "swiper/css/pagination"
 import 'swiper/css/free-mode';
+import { SpeedInsights } from '@vercel/speed-insights/next'
+
 export const metadata = {
     title: 'Vanisri Opticals',
     description: '',
@@ -16,6 +18,7 @@ export default function RootLayout({ children }) {
         <html lang="en">
             <body>
                 {children}
+                <SpeedInsights />
             </body>
         </html>
     )
