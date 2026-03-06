@@ -252,7 +252,7 @@ export default function Sunglasses() {
                 <div className="project-block-one">
                   <div className="inner-box">
                     <figure className="image-box">
-                      <img src="assets/images/sunglasses/guess.png" alt="" />
+                      <img src="assets/images/sunglasses/Guess.png" alt="" />
                     </figure>
                     <div className="view-btn pt-5">
                       <Link
