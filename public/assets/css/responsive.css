@@ -796,12 +796,12 @@
   }
 
   .header-top .right-column .schedule{
-    display: inline-block;
-    margin-right: 0px;
+    display: inline-block !important;
+    margin-right: 0px !important;
   }
 
   .header-top .social-links li{
-    float: none;
+    float: none !important;
   }
 
   .banner-carousel .content-box .icon-list li{
