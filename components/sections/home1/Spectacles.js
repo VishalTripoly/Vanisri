@@ -291,7 +291,7 @@ export default function Spectacles() {
                         data-fancybox="gallery"
                       >
                         <img
-                          src="assets/images/Spectacles/MK-glass.png"
+                          src="assets/images/Spectacles/Mk-glass.png"
                           alt=""
                         />
                       </Link>
