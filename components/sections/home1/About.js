@@ -45,7 +45,7 @@ export default function About() {
             </div>
           </div>
         </section>
-        <section className="page-title p_relative pb-5 mb-5">
+        <section className=" p_relative pb-5 mb-5">
           <div className="bg-layer pb-5" />
           <div className="auto-container">
             <div className="content-box">

@@ -6,7 +6,7 @@ export default function Footer1() {
     return (
       <>
         <footer className="main-footer p_relative">
-          <div className="widget-section p-5">
+          <div className="widget-section ">
             <div className="auto-container">
               <div className="row clearfix">
                 <div className="col-lg-6 col-md-6 col-sm-12 footer-column">
