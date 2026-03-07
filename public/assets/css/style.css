@@ -2450,16 +2450,16 @@ div#mCSB_1_container{
 
 .contact-section .bg-layer{
   position: absolute;
-  background-image: url("/assets/images/banner/Spectacles.png");
+  background:#000;
   width: 100%;
   height: 520px;
   left: 0px;
   top: 0px;
 }
 
-/* .contact-section .sec-title .sub-title{
+.contact-section .sec-title .sub-title{
   background: -webkit-linear-gradient(0deg, #2e2726, #133035 100%);
-} */
+}
 
 .contact-section .support-box .icon-box{
   position: absolute;

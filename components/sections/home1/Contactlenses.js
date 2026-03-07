@@ -41,7 +41,7 @@ export default function Contactlenses() {
             ></div>
             <div className="items-container row clearfix">
               {/* Item 1 */}
-              <div className="col-lg-2 col-md-6 col-sm-12 feature-block d-flex masonry-item small-column all in-down one-second pb-4 masonry-item small-column all pb-4 pb-4">
+              <div className="col-lg-2 col-md-6 col-sm-6 col-6 feature-block d-flex masonry-item small-column all in-down one-second pb-4 masonry-item small-column all pb-4 pb-4">
                 <div className="project-block-one">
                   <figure className="image-box">
                     <img src="/assets/images/lens/01.png" alt="" />
@@ -50,7 +50,7 @@ export default function Contactlenses() {
               </div>
 
               {/* Item 2 */}
-              <div className="col-lg-2 col-md-6 col-sm-12 feature-block d-flex masonry-item small-column all in-down one-second pb-4 masonry-item small-column all pb-4">
+              <div className="col-lg-2 col-md-6 col-sm-6 col-6 feature-block d-flex masonry-item small-column all in-down one-second pb-4 masonry-item small-column all pb-4">
                 <div className="project-block-one">
                   <figure className="image-box">
                     <img src="/assets/images/lens/02.png" alt="" />
@@ -59,7 +59,7 @@ export default function Contactlenses() {
               </div>
 
               {/* Item 3 */}
-              <div className="col-lg-2 col-md-6 col-sm-12 feature-block d-flex masonry-item small-column all in-down one-second pb-4 masonry-item small-column all pb-4">
+              <div className="col-lg-2 col-md-6 col-sm-6 col-6 feature-block d-flex masonry-item small-column all in-down one-second pb-4 masonry-item small-column all pb-4">
                 <div className="project-block-one">
                   <figure className="image-box">
                     <img src="/assets/images/lens/03.png" alt="" />
@@ -68,7 +68,7 @@ export default function Contactlenses() {
               </div>
 
               {/* Item 4 */}
-              <div className="col-lg-2 col-md-6 col-sm-12 feature-block d-flex masonry-item small-column all in-down one-second pb-4 masonry-item small-column all pb-4">
+              <div className="col-lg-2 col-md-6 col-sm-6 col-6 feature-block d-flex masonry-item small-column all in-down one-second pb-4 masonry-item small-column all pb-4">
                 <div className="project-block-one">
                   <figure className="image-box">
                     <img src="/assets/images/lens/04.png" alt="" />
@@ -77,7 +77,7 @@ export default function Contactlenses() {
               </div>
 
               {/* Item 5 */}
-              <div className="col-lg-2 col-md-6 col-sm-12 feature-block d-flex masonry-item small-column all in-down one-second pb-4 masonry-item small-column all pb-4">
+              <div className="col-lg-2 col-md-6 col-sm-6 col-6 feature-block d-flex masonry-item small-column all in-down one-second pb-4 masonry-item small-column all pb-4">
                 <div className="project-block-one">
                   <figure className="image-box">
                     <img src="/assets/images/lens/coppervision.png" alt="" />
@@ -86,7 +86,7 @@ export default function Contactlenses() {
               </div>
 
               {/* Item 6 */}
-              <div className="col-lg-2 col-md-6 col-sm-12 feature-block d-flex masonry-item small-column all in-down one-second pb-4 masonry-item small-column all pb-4">
+              <div className="col-lg-2 col-md-6 col-sm-6 col-6 feature-block d-flex masonry-item small-column all in-down one-second pb-4 masonry-item small-column all pb-4">
                 <div className="project-block-one">
                   <figure className="image-box">
                     <img src="/assets/images/lens/aspire.png" alt="" />
@@ -94,7 +94,7 @@ export default function Contactlenses() {
                 </div>
               </div>
               {/* Item 7 */}
-              <div className="col-lg-2 col-md-6 col-sm-12 feature-block d-flex masonry-item small-column all in-down one-second pb-4 ">
+              <div className="col-lg-2 col-md-6 col-sm-6 col-6 feature-block d-flex masonry-item small-column all in-down one-second pb-4 ">
                 <div className="project-block-one">
                   <figure className="image-box">
                     <img src="/assets/images/lens/bash.png" alt="" />
@@ -102,7 +102,7 @@ export default function Contactlenses() {
                 </div>
               </div>
               {/* Item 8 */}
-              <div className="col-lg-2 col-md-6 col-sm-12 feature-block d-flex masonry-item small-column all in-down one-second pb-4 ">
+              <div className="col-lg-2 col-md-6 col-sm-6 col-6 feature-block d-flex masonry-item small-column all in-down one-second pb-4 ">
                 <div className="project-block-one">
                   <figure className="image-box">
                     <img src="/assets/images/lens/freshlook.png" alt="" />
@@ -110,7 +110,7 @@ export default function Contactlenses() {
                 </div>
               </div>
               {/* Item 9 */}
-              <div className="col-lg-2 col-md-6 col-sm-12 feature-block d-flex masonry-item small-column all in-down one-second pb-4 ">
+              <div className="col-lg-2 col-md-6 col-sm-6 col-6 feature-block d-flex masonry-item small-column all in-down one-second pb-4 ">
                 <div className="project-block-one">
                   <figure className="image-box">
                     <img src="/assets/images/lens/alcori.png" alt="" />

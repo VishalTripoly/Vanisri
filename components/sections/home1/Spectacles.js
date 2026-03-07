@@ -39,7 +39,7 @@ export default function Spectacles() {
               }}
             ></div>
             <div className="items-container row clearfix">
-              <div className="col-lg-2 col-md-6 col-sm-12 feature-block  masonry-item small-column all in-down one-second">
+              <div className="col-lg-2 col-md-6 col-sm-6 col-6 feature-block  masonry-item small-column all in-down one-second">
                 <div className="project-block-one">
                   <div className="inner-box">
                     <figure className="image-box">
@@ -61,7 +61,7 @@ export default function Spectacles() {
                 </div>
               </div>
 
-              <div className="col-lg-2 col-md-6 col-sm-12 feature-block  masonry-item small-column all in-down one-second ">
+              <div className="col-lg-2 col-md-6 col-sm-6 col-6 feature-block  masonry-item small-column all in-down one-second ">
                 <div className="project-block-one">
                   <div className="inner-box">
                     <figure className="image-box">
@@ -83,7 +83,7 @@ export default function Spectacles() {
                 </div>
               </div>
 
-              <div className="col-lg-2 col-md-6 col-sm-12 feature-block  masonry-item small-column all in-down one-second product paeditaric equipment">
+              <div className="col-lg-2 col-md-6 col-sm-6 col-6 feature-block  masonry-item small-column all in-down one-second product paeditaric equipment">
                 <div className="project-block-one">
                   <div className="inner-box">
                     <figure className="image-box">
@@ -105,7 +105,7 @@ export default function Spectacles() {
                 </div>
               </div>
 
-              <div className="col-lg-2 col-md-6 col-sm-12 feature-block  masonry-item small-column all in-down one-second product paeditaric equipment">
+              <div className="col-lg-2 col-md-6 col-sm-6 col-6 feature-block  masonry-item small-column all in-down one-second product paeditaric equipment">
                 <div className="project-block-one">
                   <div className="inner-box">
                     <figure className="image-box">
@@ -127,7 +127,7 @@ export default function Spectacles() {
                 </div>
               </div>
 
-              <div className="col-lg-2 col-md-6 col-sm-12 feature-block  masonry-item small-column all in-down one-second product paeditaric equipment">
+              <div className="col-lg-2 col-md-6 col-sm-6 col-6 feature-block  masonry-item small-column all in-down one-second product paeditaric equipment">
                 <div className="project-block-one">
                   <div className="inner-box">
                     <figure className="image-box">
@@ -149,7 +149,7 @@ export default function Spectacles() {
                 </div>
               </div>
 
-              <div className="col-lg-2 col-md-6 col-sm-12 feature-block  masonry-item small-column all in-down one-second ">
+              <div className="col-lg-2 col-md-6 col-sm-6 col-6 feature-block  masonry-item small-column all in-down one-second ">
                 <div className="project-block-one">
                   <div className="inner-box">
                     <figure className="image-box">
@@ -170,7 +170,7 @@ export default function Spectacles() {
                   </div>
                 </div>
               </div>
-              <div className="col-lg-2 col-md-6 col-sm-12 feature-block  masonry-item small-column all in-down one-second ">
+              <div className="col-lg-2 col-md-6 col-sm-6 col-6 feature-block  masonry-item small-column all in-down one-second ">
                 <div className="project-block-one">
                   <div className="inner-box">
                     <figure className="image-box">
@@ -191,7 +191,7 @@ export default function Spectacles() {
                   </div>
                 </div>
               </div>
-              <div className="col-lg-2 col-md-6 col-sm-12 feature-block  masonry-item small-column all in-down one-second product paeditaric equipment">
+              <div className="col-lg-2 col-md-6 col-sm-6 col-6 feature-block  masonry-item small-column all in-down one-second product paeditaric equipment">
                 <div className="project-block-one">
                   <div className="inner-box">
                     <figure className="image-box">
@@ -215,7 +215,7 @@ export default function Spectacles() {
                   </div>
                 </div>
               </div>
-              <div className="col-lg-2 col-md-6 col-sm-12 feature-block  masonry-item small-column all in-down one-second product paeditaric equipment">
+              <div className="col-lg-2 col-md-6 col-sm-6 col-6 feature-block  masonry-item small-column all in-down one-second product paeditaric equipment">
                 <div className="project-block-one">
                   <div className="inner-box">
                     <figure className="image-box">
@@ -236,7 +236,7 @@ export default function Spectacles() {
                   </div>
                 </div>
               </div>
-              <div className="col-lg-2 col-md-6 col-sm-12 feature-block  masonry-item small-column all in-down one-second ">
+              <div className="col-lg-2 col-md-6 col-sm-6 col-6 feature-block  masonry-item small-column all in-down one-second ">
                 <div className="project-block-one">
                   <div className="inner-box">
                     <figure className="image-box">
@@ -257,7 +257,7 @@ export default function Spectacles() {
                   </div>
                 </div>
               </div>
-              <div className="col-lg-2 col-md-6 col-sm-12 feature-block  masonry-item small-column all in-down one-second ">
+              <div className="col-lg-2 col-md-6 col-sm-6 col-6 feature-block  masonry-item small-column all in-down one-second ">
                 <div className="project-block-one">
                   <div className="inner-box">
                     <figure className="image-box">
@@ -278,7 +278,7 @@ export default function Spectacles() {
                   </div>
                 </div>
               </div>
-              <div className="col-lg-2 col-md-6 col-sm-12 feature-block  masonry-item small-column all in-down one-second product paeditaric equipment">
+              <div className="col-lg-2 col-md-6 col-sm-6 col-6 feature-block  masonry-item small-column all in-down one-second product paeditaric equipment">
                 <div className="project-block-one">
                   <div className="inner-box">
                     <figure className="image-box">
@@ -299,7 +299,7 @@ export default function Spectacles() {
                   </div>
                 </div>
               </div>
-              <div className="col-lg-2 col-md-6 col-sm-12 feature-block  masonry-item small-column all in-down one-second product paeditaric equipment">
+              <div className="col-lg-2 col-md-6 col-sm-6 col-6 feature-block  masonry-item small-column all in-down one-second product paeditaric equipment">
                 <div className="project-block-one">
                   <div className="inner-box">
                     <figure className="image-box">
@@ -320,7 +320,7 @@ export default function Spectacles() {
                   </div>
                 </div>
               </div>
-              <div className="col-lg-2 col-md-6 col-sm-12 feature-block  masonry-item small-column all in-down one-second ">
+              <div className="col-lg-2 col-md-6 col-sm-6 col-6 feature-block  masonry-item small-column all in-down one-second ">
                 <div className="project-block-one">
                   <div className="inner-box">
                     <figure className="image-box">
@@ -341,7 +341,7 @@ export default function Spectacles() {
                   </div>
                 </div>
               </div>
-              <div className="col-lg-2 col-md-6 col-sm-12 feature-block  masonry-item small-column all in-down one-second ">
+              <div className="col-lg-2 col-md-6 col-sm-6 col-6 feature-block  masonry-item small-column all in-down one-second ">
                 <div className="project-block-one">
                   <div className="inner-box">
                     <figure className="image-box">
@@ -362,7 +362,7 @@ export default function Spectacles() {
                   </div>
                 </div>
               </div>
-              <div className="col-lg-2 col-md-6 col-sm-12 feature-block  masonry-item small-column all in-down one-second product paeditaric equipment">
+              <div className="col-lg-2 col-md-6 col-sm-6 col-6 feature-block  masonry-item small-column all in-down one-second product paeditaric equipment">
                 <div className="project-block-one">
                   <div className="inner-box">
                     <figure className="image-box">
@@ -383,7 +383,7 @@ export default function Spectacles() {
                   </div>
                 </div>
               </div>
-              <div className="col-lg-2 col-md-6 col-sm-12 feature-block  masonry-item small-column all in-down one-second product paeditaric equipment">
+              <div className="col-lg-2 col-md-6 col-sm-6 col-6 feature-block  masonry-item small-column all in-down one-second product paeditaric equipment">
                 <div className="project-block-one">
                   <div className="inner-box">
                     <figure className="image-box">
@@ -404,7 +404,7 @@ export default function Spectacles() {
                   </div>
                 </div>
               </div>
-              <div className="col-lg-2 col-md-6 col-sm-12 feature-block  masonry-item small-column all in-down one-second ">
+              <div className="col-lg-2 col-md-6 col-sm-6 col-6 feature-block  masonry-item small-column all in-down one-second ">
                 <div className="project-block-one">
                   <div className="inner-box">
                     <figure className="image-box">
@@ -428,7 +428,7 @@ export default function Spectacles() {
                   </div>
                 </div>
               </div>
-              <div className="col-lg-2 col-md-6 col-sm-12 feature-block  masonry-item small-column all in-down one-second ">
+              <div className="col-lg-2 col-md-6 col-sm-6 col-6 feature-block  masonry-item small-column all in-down one-second ">
                 <div className="project-block-one">
                   <div className="inner-box">
                     <figure className="image-box">
@@ -452,7 +452,7 @@ export default function Spectacles() {
                   </div>
                 </div>
               </div>
-              <div className="col-lg-2 col-md-6 col-sm-12 feature-block  masonry-item small-column all in-down one-second product paeditaric equipment">
+              <div className="col-lg-2 col-md-6 col-sm-6 col-6 feature-block  masonry-item small-column all in-down one-second product paeditaric equipment">
                 <div className="project-block-one">
                   <div className="inner-box">
                     <figure className="image-box">
@@ -476,7 +476,7 @@ export default function Spectacles() {
                   </div>
                 </div>
               </div>
-              <div className="col-lg-2 col-md-6 col-sm-12 feature-block  masonry-item small-column all in-down one-second product paeditaric equipment">
+              <div className="col-lg-2 col-md-6 col-sm-6 col-6 feature-block  masonry-item small-column all in-down one-second product paeditaric equipment">
                 <div className="project-block-one">
                   <div className="inner-box">
                     <figure className="image-box">
@@ -500,7 +500,7 @@ export default function Spectacles() {
                   </div>
                 </div>
               </div>
-              <div className="col-lg-2 col-md-6 col-sm-12 feature-block  masonry-item small-column all in-down one-second product paeditaric equipment">
+              <div className="col-lg-2 col-md-6 col-sm-6 col-6 feature-block  masonry-item small-column all in-down one-second product paeditaric equipment">
                 <div className="project-block-one">
                   <div className="inner-box">
                     <figure className="image-box">
@@ -521,7 +521,7 @@ export default function Spectacles() {
                   </div>
                 </div>
               </div>
-              <div className="col-lg-2 col-md-6 col-sm-12 feature-block  masonry-item small-column all in-down one-second ">
+              <div className="col-lg-2 col-md-6 col-sm-6 col-6 feature-block  masonry-item small-column all in-down one-second ">
                 <div className="project-block-one">
                   <div className="inner-box">
                     <figure className="image-box">
@@ -542,7 +542,7 @@ export default function Spectacles() {
                   </div>
                 </div>
               </div>
-              <div className="col-lg-2 col-md-6 col-sm-12 feature-block  masonry-item small-column all in-down one-second ">
+              <div className="col-lg-2 col-md-6 col-sm-6 col-6 feature-block  masonry-item small-column all in-down one-second ">
                 <div className="project-block-one">
                   <div className="inner-box">
                     <figure className="image-box">
@@ -566,7 +566,7 @@ export default function Spectacles() {
                   </div>
                 </div>
               </div>
-              <div className="col-lg-2 col-md-6 col-sm-12 feature-block  masonry-item small-column all in-down one-second product paeditaric equipment">
+              <div className="col-lg-2 col-md-6 col-sm-6 col-6 feature-block  masonry-item small-column all in-down one-second product paeditaric equipment">
                 <div className="project-block-one">
                   <div className="inner-box">
                     <figure className="image-box">
@@ -590,7 +590,7 @@ export default function Spectacles() {
                   </div>
                 </div>
               </div>
-              <div className="col-lg-2 col-md-6 col-sm-12 feature-block  masonry-item small-column all in-down one-second product paeditaric equipment">
+              <div className="col-lg-2 col-md-6 col-sm-6 col-6 feature-block  masonry-item small-column all in-down one-second product paeditaric equipment">
                 <div className="project-block-one">
                   <div className="inner-box">
                     <figure className="image-box">
@@ -611,7 +611,7 @@ export default function Spectacles() {
                   </div>
                 </div>
               </div>
-              <div className="col-lg-2 col-md-6 col-sm-12 feature-block  masonry-item small-column all in-down one-second ">
+              <div className="col-lg-2 col-md-6 col-sm-6 col-6 feature-block  masonry-item small-column all in-down one-second ">
                 <div className="project-block-one">
                   <div className="inner-box">
                     <figure className="image-box">
@@ -635,7 +635,7 @@ export default function Spectacles() {
                   </div>
                 </div>
               </div>
-              <div className="col-lg-2 col-md-6 col-sm-12 feature-block  masonry-item small-column all in-down one-second ">
+              <div className="col-lg-2 col-md-6 col-sm-6 col-6 feature-block  masonry-item small-column all in-down one-second ">
                 <div className="project-block-one">
                   <div className="inner-box">
                     <figure className="image-box">
@@ -659,7 +659,7 @@ export default function Spectacles() {
                   </div>
                 </div>
               </div>
-              <div className="col-lg-2 col-md-6 col-sm-12 feature-block  masonry-item small-column all in-down one-second product paeditaric equipment">
+              <div className="col-lg-2 col-md-6 col-sm-6 col-6 feature-block  masonry-item small-column all in-down one-second product paeditaric equipment">
                 <div className="project-block-one">
                   <div className="inner-box">
                     <figure className="image-box">
@@ -680,7 +680,7 @@ export default function Spectacles() {
                   </div>
                 </div>
               </div>
-              <div className="col-lg-2 col-md-6 col-sm-12 feature-block  masonry-item small-column all in-down one-second product paeditaric equipment">
+              <div className="col-lg-2 col-md-6 col-sm-6 col-6 feature-block  masonry-item small-column all in-down one-second product paeditaric equipment">
                 <div className="project-block-one">
                   <div className="inner-box">
                     <figure className="image-box">
