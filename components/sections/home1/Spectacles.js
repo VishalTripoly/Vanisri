@@ -91,7 +91,7 @@ export default function Spectacles() {
                     </figure>
                     <div className="view-btn pt-5">
                       <Link
-                        href="assets/images/project/project-12.jpg"
+                        href="/"
                         className="lightbox-image"
                         data-fancybox="gallery"
                       >
@@ -113,7 +113,7 @@ export default function Spectacles() {
                     </figure>
                     <div className="view-btn pt-5">
                       <Link
-                        href="assets/images/project/project-12.jpg"
+                        href="/"
                         className="lightbox-image"
                         data-fancybox="gallery"
                       >
@@ -135,7 +135,7 @@ export default function Spectacles() {
                     </figure>
                     <div className="view-btn pt-5">
                       <Link
-                        href="assets/images/project/project-12.jpg"
+                        href="/"
                         className="lightbox-image"
                         data-fancybox="gallery"
                       >
@@ -178,7 +178,7 @@ export default function Spectacles() {
                     </figure>
                     <div className="view-btn pt-5">
                       <Link
-                        href="assets/images/project/project-12.jpg"
+                        href="/"
                         className="lightbox-image"
                         data-fancybox="gallery"
                       >
@@ -202,7 +202,7 @@ export default function Spectacles() {
                     </figure>
                     <div className="view-btn pt-5">
                       <Link
-                        href="assets/images/project/project-12.jpg"
+                        href="/"
                         className="lightbox-image"
                         data-fancybox="gallery"
                       >
@@ -223,7 +223,7 @@ export default function Spectacles() {
                     </figure>
                     <div className="view-btn pt-5">
                       <Link
-                        href="assets/images/project/project-12.jpg"
+                        href="/"
                         className="lightbox-image"
                         data-fancybox="gallery"
                       >
@@ -265,7 +265,7 @@ export default function Spectacles() {
                     </figure>
                     <div className="view-btn pt-5">
                       <Link
-                        href="assets/images/project/project-12.jpg"
+                        href="/"
                         className="lightbox-image"
                         data-fancybox="gallery"
                       >
@@ -286,7 +286,7 @@ export default function Spectacles() {
                     </figure>
                     <div className="view-btn pt-5">
                       <Link
-                        href="assets/images/project/project-12.jpg"
+                        href="/"
                         className="lightbox-image"
                         data-fancybox="gallery"
                       >
@@ -307,7 +307,7 @@ export default function Spectacles() {
                     </figure>
                     <div className="view-btn pt-5">
                       <Link
-                        href="assets/images/project/project-12.jpg"
+                        href="/"
                         className="lightbox-image"
                         data-fancybox="gallery"
                       >
@@ -349,7 +349,7 @@ export default function Spectacles() {
                     </figure>
                     <div className="view-btn pt-5">
                       <Link
-                        href="assets/images/project/project-12.jpg"
+                        href="/"
                         className="lightbox-image"
                         data-fancybox="gallery"
                       >
@@ -370,7 +370,7 @@ export default function Spectacles() {
                     </figure>
                     <div className="view-btn pt-5">
                       <Link
-                        href="assets/images/project/project-12.jpg"
+                        href="/"
                         className="lightbox-image"
                         data-fancybox="gallery"
                       >
@@ -391,7 +391,7 @@ export default function Spectacles() {
                     </figure>
                     <div className="view-btn pt-5">
                       <Link
-                        href="assets/images/project/project-12.jpg"
+                        href="/"
                         className="lightbox-image"
                         data-fancybox="gallery"
                       >
@@ -439,7 +439,7 @@ export default function Spectacles() {
                     </figure>
                     <div className="view-btn pt-5">
                       <Link
-                        href="assets/images/project/project-12.jpg"
+                        href="/"
                         className="lightbox-image"
                         data-fancybox="gallery"
                       >
@@ -463,7 +463,7 @@ export default function Spectacles() {
                     </figure>
                     <div className="view-btn pt-5">
                       <Link
-                        href="assets/images/project/project-12.jpg"
+                        href="/"
                         className="lightbox-image"
                         data-fancybox="gallery"
                       >
@@ -487,7 +487,7 @@ export default function Spectacles() {
                     </figure>
                     <div className="view-btn pt-5">
                       <Link
-                        href="assets/images/project/project-12.jpg"
+                        href="/"
                         className="lightbox-image"
                         data-fancybox="gallery"
                       >
@@ -508,7 +508,7 @@ export default function Spectacles() {
                     </figure>
                     <div className="view-btn pt-5">
                       <Link
-                        href="assets/images/project/project-12.jpg"
+                        href="/"
                         className="lightbox-image"
                         data-fancybox="gallery"
                       >
@@ -553,7 +553,7 @@ export default function Spectacles() {
                     </figure>
                     <div className="view-btn pt-5">
                       <Link
-                        href="assets/images/project/project-12.jpg"
+                        href="/"
                         className="lightbox-image"
                         data-fancybox="gallery"
                       >
@@ -577,7 +577,7 @@ export default function Spectacles() {
                     </figure>
                     <div className="view-btn pt-5">
                       <Link
-                        href="assets/images/project/project-12.jpg"
+                        href="/"
                         className="lightbox-image"
                         data-fancybox="gallery"
                       >
@@ -598,7 +598,7 @@ export default function Spectacles() {
                     </figure>
                     <div className="view-btn pt-5">
                       <Link
-                        href="assets/images/project/project-12.jpg"
+                        href="/"
                         className="lightbox-image"
                         data-fancybox="gallery"
                       >
@@ -646,7 +646,7 @@ export default function Spectacles() {
                     </figure>
                     <div className="view-btn pt-5">
                       <Link
-                        href="assets/images/project/project-12.jpg"
+                        href="/"
                         className="lightbox-image"
                         data-fancybox="gallery"
                       >
@@ -667,7 +667,7 @@ export default function Spectacles() {
                     </figure>
                     <div className="view-btn pt-5">
                       <Link
-                        href="assets/images/project/project-12.jpg"
+                        href="/"
                         className="lightbox-image"
                         data-fancybox="gallery"
                       >
@@ -688,7 +688,7 @@ export default function Spectacles() {
                     </figure>
                     <div className="view-btn pt-5">
                       <Link
-                        href="assets/images/project/project-12.jpg"
+                        href="/"
                         className="lightbox-image"
                         data-fancybox="gallery"
                       >
