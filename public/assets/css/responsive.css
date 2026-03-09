@@ -701,6 +701,9 @@
   font-size: 16px;
     line-height: 24px;
 }
+#about .bg-layer{
+  height:500px !important
+}
 }
 
 @media only screen and (max-width: 599px){
@@ -840,7 +843,7 @@
 section#about {
   display: block !important;
     margin: 0 0 120px 0;
-    padding-bottom: 160px !important;
+    padding-bottom: 80px !important;
 }
 section.p_relative.pb-5.mb-5{
   display: none !important;
