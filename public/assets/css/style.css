@@ -2580,7 +2580,7 @@ div#mCSB_1_container{
   box-shadow: 0px 10px 40px 0px rgba(0, 0, 0, 0.08);
 }
 
-.contact-section .video-inner:before{
+/* .contact-section .video-inner:before{
   position: absolute;
   content: '';
   background: #000;
@@ -2589,7 +2589,7 @@ div#mCSB_1_container{
   left: 0px;
   top: 0px;
   opacity: 0.3;
-}
+} */
 
 .contact-section .video-inner .video-btn a{
   position: relative;

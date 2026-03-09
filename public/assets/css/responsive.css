@@ -182,7 +182,7 @@
   }
 
   .counter-block-one .inner-box{
-    display: inline-block !important;
+    /* display: inline-block !important; */
     margin-bottom: 30px;
   }
 
@@ -433,18 +433,27 @@
     padding-bottom: 70px;
   }
   /* new */
+  .banner-carousel .content-box p{
+    font-size: 16px;
+  }
 
   .counter-block-one .inner-box .icon-box{
+    position: relative;
     font-size: 50px !important;
-    line-height: 110px !important ;
+    line-height: 100px !important;
+     border-top: 1px solid;
   }
   .counter-block-one .inner-box .count-outer{
-    font-size: 35px !important;
+    font-size: 24px !important;
     margin-bottom: -10px !important;
-    padding: 10px 0 !important;
+    padding: 20px 0 0  0 !important;
+    margin-top: -40px;;
+  }
+  .counter-block-one .inner-box p{
+    font-size: 16px;
   }
   .counter-block-one .inner-box{
-    padding: 0 0 0 60px !important;
+    padding: 0 0 0 0px !important;
   }
   .chooseus-section{
     padding: 65px 0px 20px 0px;
@@ -673,8 +682,25 @@
   .contact-style-two{
     padding-bottom: 70px;
   }
-
-
+.banner-carousel .content-box .icon-list li{
+  position: relative;
+    display: inline-block;
+    float: left;
+    margin-right: 30px;
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+    font-size: 30px;
+    background: #fff;
+    color: #160B67;
+    border-radius: 50%;
+    text-align: center;
+    box-shadow: 6px 8px 0px 0px #ecf6f6;
+}
+.content_block_three .content-box .text p{
+  font-size: 16px;
+    line-height: 24px;
+}
 }
 
 @media only screen and (max-width: 599px){
@@ -702,7 +728,7 @@
     line-height: 30px;
   }
   .feature-block-one .inner-box h3{
-    font-size: 22px !important;
+    font-size: 20px !important;
   }
 
   .feature-section .inner-container{
@@ -758,16 +784,45 @@
 .main-header .outer-box{
   padding: 0px !important;
 }
+.feature-section .title-box p{
+  text-align: justify;
+}
  .content-box h3{
-    font-size: 20px;
+    font-size: 18px;
     line-height: 30px;
     margin-top: 20px;
   }
   .content-box h4{
-    font-size: 20px;
-    line-height: 30px;
+    font-size: 18px;
+    line-height: 25px;
     margin-top: 20px;
   }
+  .content-box.px-3 h5{
+    font-size: 18px;
+  }
+  .contact-section .support-box h3{
+      font-size: 20px;
+  }
+  .contact-section .form-inner h3{
+    font-size: 24px;
+    line-height: 30x;
+  }
+  .footer-bottom p, .footer-bottom a {
+    color: #fff;
+    font-size: 14px;
+    line-height: 22px;
+}
+  .feature-section .bg-layer:before{
+    position: absolute;
+    content: '';
+    background: #000;
+    width: 100%;
+    height: 100%;
+    left: 0px;
+    top: 0px;
+    opacity: 0.6;
+    border-radius: 15px;
+}
 .page-title .bg-layer{
   position: absolute;
     left: 0;

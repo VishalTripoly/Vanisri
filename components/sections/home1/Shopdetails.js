@@ -15,7 +15,7 @@ export default function Shopdetails() {
               }}
             ></div>
             <div
-              className="bg-layer pb-5"
+              className="bg-layer pb-5 position-relative"
               style={{
                 backgroundImage: "url(assets/images/banner/about.png)",
                 height: "580px",

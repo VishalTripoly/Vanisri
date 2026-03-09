@@ -23,9 +23,9 @@ export default function Spectacles() {
           </div>
         </div>
       </section>
-      <section className="portfolio-page-section p_relative pt-5 pb-3">
+      <section className="portfolio-page-section p_relative pt-xl-5 pt-3 pb-3">
         <div className="auto-container">
-          <div className="sec-title mb_60 text-center">
+          <div className="sec-title mb_40 text-center">
             <span className="sub-title ">Spectacles</span>
             <h2 className="wow slideInDown" data-wow-delay="00ms">
               Spectacles

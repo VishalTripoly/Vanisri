@@ -5,7 +5,7 @@ import Link from "next/link"
 export default function Feature() {
     return (
       <>
-        <section className="feature-section p_relative pb-5">
+        <section className="feature-section p_relative pb-5 pt-3">
           <div className="auto-container">
             <div className="inner-container p_relative d_block">
               <div
@@ -20,8 +20,7 @@ export default function Feature() {
                 </h2>
                 <p className="wow slideInRight" data-wow-delay="00ms">
                   Your eyes are unique, so we make personalized optical eyewear
-                  when you’re <br />
-                  settling for a one-size fit.
+                  when you’re settling for a one-size fit.
                 </p>
               </div>
               <div className="row clearfix">
