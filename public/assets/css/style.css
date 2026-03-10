@@ -1193,7 +1193,75 @@ img {
 
 
 /** mobile-menu **/
-
+#callbook {
+    background:  linear-gradient(90deg,#393185,#201d43 42.71%,rgba(13,11,31,.9));
+    bottom: 0;
+    height: 55px;
+    left: 0;
+    position: fixed;
+    display: none;
+    right: 0;
+    z-index: 10;
+    -webkit-box-shadow: 0 2px 15px 0 #333;
+    -moz-box-shadow: 0 2px 15px 0 #333;
+    box-shadow: 0 2px 15px 0 #333;
+    padding-bottom:20px;
+}
+#callbook a .fa {
+    color: #fff !important;
+    font-size: 26px;
+}
+#callbook>a {
+    z-index: 300;
+    float: left;
+    line-height: 50px;
+    text-align: center;
+    width: 50%;
+    text-decoration: none;
+    font-size: 2em;
+    text-transform: capitalize;
+}
+#callbook>a {
+    z-index: 300;
+    float: left;
+    line-height: 50px;
+    text-align: center;
+    width: 50%;
+    text-decoration: none;
+    font-size: 2em;
+    text-transform: capitalize;
+}
+.callbook_under {
+    background:linear-gradient(90deg,#393185,#201d43 42.71%,rgba(13,11,31,.9));
+    bottom: -10px;
+    height: 78px;
+    left: 50%;
+    margin-left: -39px;
+    position: absolute;
+    width: 78px;
+    border-radius: 5000px;
+    -webkit-border-radius: 5000px;
+    z-index: 1;
+    -webkit-box-shadow: 0 2px 15px 0 #333;
+    -moz-box-shadow: 0 2px 15px 0 #333;
+    box-shadow: 0 2px 15px 0 #333;
+}
+#callbook a .fa-whatsapp {
+    color: #fff !important;
+    font-size: 45px;
+    margin-top: 10px;
+}
+.callbook_logo {
+    background-size: 100%;
+    bottom: -9px;
+    height: 72px !important;
+    left: 50%;
+    margin-left: -21px;
+    position: absolute;
+    width: 72px !important;
+    z-index: 2;
+    font-size: -webkit-xxx-large;
+}
 .nav-outer .mobile-nav-toggler{
   position: relative;
   float: right;
@@ -1223,10 +1291,10 @@ img {
 }
 
 .mobile-menu .nav-logo{
-  position:relative;
-  padding:50px 25px;
-  text-align:left;  
-  padding-bottom: 100px;
+    position: relative;
+    text-align: left;
+    padding: 25px;
+    width: 250px;
 }
 
 .mobile-menu-visible{
@@ -1265,7 +1333,7 @@ img {
   height: 100%;
   max-height: 100%;
   overflow-y: auto;
-  background: #141417;
+  background: linear-gradient(90deg,#393185,#201d43 42.71%,rgba(13,11,31,1));
   padding: 0px 0px;
   z-index: 5;
   opacity: 0;

@@ -25,7 +25,7 @@ export default function Contact() {
             <div className="sec-title centred light mb_45">
               <span className="sub-title">Eye Care</span>
               <h2 className="wow slideInLeft" data-wow-delay="00ms">
-                Contact Us for your Eye Check-up
+                Need a Complete Eye Check-up
               </h2>
             </div>
             <div className="support-box p_relative centred">

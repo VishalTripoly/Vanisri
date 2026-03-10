@@ -49,7 +49,7 @@ export default function Testimonial() {
             style={{ backgroundImage: "url(assets/images/shape/shape-6.png)" }}
           ></div>
           <div className="d-lg-flex justify-content-between d-block">
-            <img
+            <img className='d-none d-lg-block'
               src={"assets/images/banner/glass.png"}
               width={300}
               objectFit="contain"

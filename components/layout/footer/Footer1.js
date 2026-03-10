@@ -114,6 +114,32 @@ export default function Footer1() {
             </div>
           </div>
         </footer>
+
+        <div id="callbook" className="mobile-call d-lg-none d-block">
+          <a id="cb_call" className="actioncall" href="tel:9035011992">
+            <i className="fa fa-phone" />
+          </a>
+          <a
+            id="cb_book"
+            className="actionbook"
+            target="_blank"
+            href="mailto:vanisriopticalsh@gmail.com"
+          >
+            <i className="fa fa-envelope" />
+          </a>
+          <div className="callbook_logo">
+            <a
+              id="cb_mail"
+              className="icon"
+              target="_blank"
+              href="https://api.whatsapp.com/send?phone=91 9035011992&text=Hi, I contact you Through your website 
+              https://www.vanisriopticals.com/"
+            >
+              <i class="fab fa-whatsapp"></i>
+            </a>
+          </div>
+          <div className="callbook_under" />
+        </div>
       </>
     );
 }

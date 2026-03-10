@@ -388,7 +388,7 @@
   }
 
   .sec-title h2{
-    font-size: 24px !important;
+    font-size: 26px !important;
     line-height: 30px !important;
   }
 
@@ -439,18 +439,18 @@
 
   .counter-block-one .inner-box .icon-box{
     position: relative;
-    font-size: 50px !important;
+    font-size: 40px !important;
     line-height: 100px !important;
      border-top: 1px solid;
   }
   .counter-block-one .inner-box .count-outer{
-    font-size: 24px !important;
+    font-size: 20px !important;
     margin-bottom: -10px !important;
-    padding: 20px 0 0  0 !important;
-    margin-top: -40px;;
+    padding: 10px 0 0  0 !important;
+    margin-top: -45px;;
   }
   .counter-block-one .inner-box p{
-    font-size: 16px;
+    font-size: 14px;
   }
   .counter-block-one .inner-box{
     padding: 0 0 0 0px !important;
@@ -704,6 +704,15 @@
 #about .bg-layer{
   height:500px !important
 }
+.scroll-top{
+  bottom: 130px !important;
+}
+    #callbook {
+        display: inline !important;
+    }
+    .main-footer{
+      margin-bottom:50px;
+    }
 }
 
 @media only screen and (max-width: 599px){
