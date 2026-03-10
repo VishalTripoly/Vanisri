@@ -710,8 +710,19 @@
     #callbook {
         display: inline !important;
     }
+    .actioncall {
+        box-sizing: border-box;
+        padding-right: 35px;
+    }
+        .actionbook {
+        box-sizing: border-box;
+        padding-left: 38px;
+    }
     .main-footer{
       margin-bottom:50px;
+    }
+    .sec-title.left .sub-title{
+      margin-left: 0px !important;
     }
 }
 
