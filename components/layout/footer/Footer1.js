@@ -89,8 +89,8 @@ export default function Footer1() {
                           </Link>
                         </li>
                         <li>
-                          <Link href="mailto:vanisriopticalsh@gmail.com">
-                            vanisriopticalsh@gmail.com
+                          <Link href="mailto:vanisriopticals@gmail.com">
+                            vanisriopticals@gmail.com
                           </Link>
                         </li>
                       </ul>
@@ -123,7 +123,7 @@ export default function Footer1() {
             id="cb_book"
             className="actionbook"
             target="_blank"
-            href="mailto:vanisriopticalsh@gmail.com"
+            href="mailto:vanisriopticals@gmail.com"
           >
             <i className="fa fa-envelope" />
           </a>

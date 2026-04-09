@@ -365,6 +365,15 @@ h1,h2,h3,h4,h5,h6{
 .banner-carousel .swiper-nav{
  display: none;
 }
+.banner-carousel .content-box{
+  padding: 27px 0px 23px 0px !important;
+}
+.scroll-top {
+  width: 35px !important;
+  height:35px !important;
+  line-height: 1.8 !important;
+  font-size: 20px!important;
+}
 }
 @media screen and (max-width: 500px) {
   .handle-preloader .animation-preloader .spinner {
@@ -414,7 +423,7 @@ img {
   line-height: 26px;
   font-weight: 500;
   font-family: 'Jost', sans-serif;
-  color: #000;
+  color: #000 !important;
   text-align: center;
   padding: 17px 45px;
   text-transform: capitalize;
@@ -432,7 +441,7 @@ img {
   content: '';
   width: 0%;
   height: 100%;
-  background: #111821;
+  /* background: #111821; */
   top: 0px;
   left: 0px;
   z-index: -1;
@@ -495,7 +504,7 @@ img {
   line-height: 50px;
   position: fixed;
   bottom: 105%;
-  right: 50px;
+  right: 25px;
   bottom: 30px;
   font-size: 24px;
   z-index: 99;
@@ -783,6 +792,8 @@ img {
 .search-popup .popup-inner{
   width: 100%;
   background: #fff;
+  height: 100vh;
+  overflow-y: hidden;
 }
 
 .search-popup .upper-box{
@@ -1146,7 +1157,7 @@ img {
 .menu-area .mobile-nav-toggler .icon-bar{
   position: relative;
   height: 2px;
-  width: 30px;
+  width: 25px;
   display: block;
   margin-bottom: 5px;
   background-color: #fff;
@@ -1194,7 +1205,7 @@ img {
 
 /** mobile-menu **/
 #callbook {
-    background:  linear-gradient(90deg,#393185,#201d43 42.71%,rgba(13,11,31,.9));
+    background:  linear-gradient(90deg,#393185,#201d43 42.71%,rgba(13,11,31,1));
     bottom: 0;
     height: 55px;
     left: 0;
@@ -1209,7 +1220,7 @@ img {
 }
 #callbook a .fa {
     color: #fff !important;
-    font-size: 26px;
+    font-size: 24px;
 }
 #callbook>a {
     z-index: 300;
@@ -1248,15 +1259,15 @@ img {
 }
 #callbook a .fa-whatsapp {
     color: #fff !important;
-    font-size: 45px;
+    font-size: 35px;
     margin-top: 10px;
 }
 .callbook_logo {
     background-size: 100%;
-    bottom: -9px;
+    bottom: -14px;
     height: 72px !important;
     left: 50%;
-    margin-left: -21px;
+    margin-left: -15px;
     position: absolute;
     width: 72px !important;
     z-index: 2;
@@ -1294,7 +1305,7 @@ img {
     position: relative;
     text-align: left;
     padding: 25px;
-    width: 250px;
+    width: 180px;
 }
 
 .mobile-menu-visible{
@@ -1359,11 +1370,11 @@ img {
 .mobile-menu .close-btn{
   position: absolute;
   right: 25px;
-  top: 10px;
+  top: 18px;
   line-height: 30px;
   width: 24px;
   text-align: center;
-  font-size: 16px;
+  font-size: 20px;
   color: #ffffff;
   cursor: pointer;
   z-index: 10;
@@ -1496,7 +1507,7 @@ img {
 .mobile-menu .social-links li a{
   position:relative;
   line-height:32px;
-  font-size:16px;
+  font-size:20px;
   color:#ffffff;
   -webkit-transition: all 500ms ease;
   -moz-transition: all 500ms ease;
@@ -3390,7 +3401,7 @@ figure.image-box{
   width: 50px;
   height: 50px;
   line-height: 50px;
-  font-size: 16px;
+  font-size: 20px;
   color: #fff;
   border: 1px solid rgba(255, 255, 255, 0.15);
   border-radius: 50%;

@@ -5,7 +5,7 @@ import VideoPopup from "@/components/elements/VideoPopup"
 export default function Contact() {
     return (
       <>
-        <section className="contact-section p_relative mb-5" id="contact" >
+        <section className="contact-section p_relative mb-5" id="contact">
           <div className="bg-layer"></div>
           <div className="pattern-layer">
             <div
@@ -57,20 +57,21 @@ export default function Contact() {
                     </div>
                     <div className="form-group">
                       <input
+                        type="text"
+                        name="mobilenumber"
+                        placeholder="Mobile Number"
+                        required=""
+                      />
+                    </div>
+                    <div className="form-group">
+                      <input
                         type="email"
                         name="email"
                         placeholder="Email"
                         required=""
                       />
                     </div>
-                    <div className="form-group">
-                      <input
-                        type="text"
-                        name="date"
-                        placeholder="Appointment date"
-                        id="datepicker"
-                      />
-                    </div>
+                    
                     <div className="form-group message-btn">
                       <button type="submit" className="theme-btn btn-one">
                         Contact Us
@@ -83,8 +84,7 @@ export default function Contact() {
                 <div
                   className="video-inner"
                   style={{
-                    backgroundImage:
-                      "url(assets/images/banner/contact.jpg)",
+                    backgroundImage: "url(assets/images/banner/contact.jpg)",
                   }}
                 >
                   <div className="video-btn">

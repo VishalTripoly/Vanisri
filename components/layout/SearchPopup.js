@@ -10,10 +10,10 @@ export default function SearchPopup({ isPopup, handlePopup }) {
           className={`search-popup ${isPopup ? "popup-visible" : ""}`}
         >
           <div className="popup-inner">
-            <div className="upper-box clearfix">
+            <div className="upper-box clearfix auto-container">
               <figure className="logo-box pull-left">
                 <Link href="/">
-                  <img src="assets/images/logo.png" alt="" width={200} />
+                  <img src="assets/images/search-logo.svg" alt="" width={100} />
                 </Link>
               </figure>
               <div className="close-search pull-right" onClick={handlePopup}>
@@ -21,13 +21,14 @@ export default function SearchPopup({ isPopup, handlePopup }) {
               </div>
             </div>
             <div className="overlay-layer"></div>
-            <div className="auto-container">
+            <div className="auto-container w-50">
               <div className="search-form">
                 <form
                   action="contact.html"
                   method="post"
                   className="default-form"
                 >
+                  <h2 className='mb-4'>Make an Appointment</h2>
                   <div className="form-group mb-4">
                     <input
                       type="text"
