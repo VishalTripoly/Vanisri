@@ -84,7 +84,7 @@ export default function Banner() {
                         Brightest, clearest vision begins at Vanisri Opticals.
                       </p>
                       <div className="btn-box">
-                        <Link href="/contact" className="theme-btn btn-one">
+                        <Link href="#contact" className="theme-btn btn-one">
                           Contact Now
                         </Link>
                       </div>
@@ -158,7 +158,7 @@ export default function Banner() {
                         at Vanisri Opticals.
                       </p>
                       <div className="btn-box">
-                        <Link href="/contact" className="theme-btn btn-one">
+                        <Link href="#contact" className="theme-btn btn-one">
                           Contact Now
                         </Link>
                       </div>
@@ -235,7 +235,7 @@ export default function Banner() {
                         at Vanisri Opticals.
                       </p>
                       <div className="btn-box">
-                        <Link href="/contact" className="theme-btn btn-one">
+                        <Link href="#contact" className="theme-btn btn-one">
                           Contact Now
                         </Link>
                       </div>
