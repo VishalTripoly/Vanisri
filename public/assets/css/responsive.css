@@ -752,8 +752,8 @@
   }
 
   .feature-section .title-box h2{
-    font-size: 26px;
-    line-height: 30px;
+    font-size: 26px !important;
+    line-height: 30px !important;
   }
   .feature-block-one .inner-box h3{
     font-size: 20px !important;
