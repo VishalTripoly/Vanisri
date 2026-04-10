@@ -17,7 +17,7 @@ export default function Header1({ scroll, handleMobileMenu, handlePopup }) {
                   <ul className="info clearfix">
                     <li>
                       <i className="icon-1"></i>Email:{" "}
-                      <Link href="vanisriopticalsh@gmail.com">
+                      <Link href="mailto:vanisriopticals@gmail.com">
                         vanisriopticals@gmail.com
                       </Link>
                     </li>
