@@ -47,23 +47,23 @@ export default function Contact() {
                     method="post"
                     className="default-form"
                   >
-                    <div className="form-group">
+                    <div className="form-group mb-4">
                       <input
                         type="text"
                         name="name"
-                        placeholder="Your Name"
+                        placeholder="Name"
                         required=""
                       />
                     </div>
-                    <div className="form-group">
+                    <div className="form-group mb-4">
                       <input
                         type="text"
-                        name="mobilenumber"
-                        placeholder="Mobile Number"
+                        name="number"
+                        placeholder="Number"
                         required=""
                       />
                     </div>
-                    <div className="form-group">
+                    <div className="form-group mb-4">
                       <input
                         type="email"
                         name="email"
@@ -71,7 +71,9 @@ export default function Contact() {
                         required=""
                       />
                     </div>
-                    
+                    <div className="form-group mb-4">
+                      <textarea name="message" placeholder="Message"></textarea>
+                    </div>
                     <div className="form-group message-btn">
                       <button type="submit" className="theme-btn btn-one">
                         Contact Us

@@ -374,6 +374,14 @@ h1,h2,h3,h4,h5,h6{
   line-height: 1.8 !important;
   font-size: 20px!important;
 }
+.search-popup .search-form{
+  padding: 10px !important;
+}
+.feature-section .inner-container{
+
+  padding: 32px 70px 20px 70px !important;
+ 
+}
 }
 @media screen and (max-width: 500px) {
   .handle-preloader .animation-preloader .spinner {
@@ -798,7 +806,7 @@ img {
 
 .search-popup .upper-box{
   position: relative;
-  padding: 70px 70px;
+  padding: 70px 30px;
 }
 
 .search-popup .overlay-layer {
@@ -812,7 +820,7 @@ img {
 
 .search-popup .close-search {
   position: relative;
-  font-size: 22px;
+  font-size: 24px;
   color: #141417;
   cursor: pointer;
   z-index: 5;
@@ -827,7 +835,7 @@ img {
 .search-popup .search-form {
   position: relative;
   width: 100%;
-  padding: 100px 0px 250px 0px;
+  padding: 50px 0px 250px 0px;
 }
 
 .search-popup .search-form .form-group{
@@ -2566,7 +2574,7 @@ div#mCSB_1_container{
 .contact-section .form-inner{
   position: relative;
   display: block;
-  background: rgba(255, 255, 255, 0.12);
+  background: #141417;
   padding: 47px 35px 50px 35px;
   border-radius: 30px;
   box-shadow: 0px 10px 40px 0px rgba(0, 0, 0, 0.08);
@@ -2580,7 +2588,7 @@ div#mCSB_1_container{
   line-height: 36px;
   font-weight: 700;
   color: #fff;
-  margin-bottom: 101px;
+  margin-bottom: 50px;
 }
 
 .contact-section .form-inner h3 span{
@@ -2609,7 +2617,7 @@ div#mCSB_1_container{
   border: 1px solid #e5e5e5;
   border-radius: 30px;
   font-size: 16px;
-  color: #6e6e6e;
+  color: #fff;
   font-family: 'Rubik', sans-serif;
   padding: 10px 20px;
   background: transparent;
@@ -2622,7 +2630,7 @@ div#mCSB_1_container{
 
 .default-form .form-group input:focus,
 .default-form .form-group textarea:focus{
-
+border-color: #fff !important;
 }
 
 .default-form .form-group input[type='date']{
@@ -3401,7 +3409,7 @@ figure.image-box{
   width: 50px;
   height: 50px;
   line-height: 50px;
-  font-size: 20px;
+  font-size: 24px;
   color: #fff;
   border: 1px solid rgba(255, 255, 255, 0.15);
   border-radius: 50%;

@@ -231,9 +231,11 @@
   }
 
   .main-footer .widget-section{
-    padding-bottom: 35px;
+    padding-bottom: 5px;
   }
-
+.footer-bottom{
+  padding: 20px 0px;;
+}
   .footer-top .top-inner .footer-logo{
     margin: 0 auto;
     margin-bottom: 30px;
@@ -389,10 +391,12 @@
   }
 
   .sec-title h2{
-    font-size: 26px !important;
+    font-size: 25px !important;
     line-height: 30px !important;
   }
-
+.contact-section .support-box{
+  margin-bottom:50px !important;
+}
   .content_block_three .content-box .text{
     margin-bottom: 5px !important;
   }
@@ -461,7 +465,7 @@
   }
 
   .testimonial-section{
-    padding: 65px 0px;
+    padding: 15px 0px;
   }
 
   .testimonial-section .owl-dots{
@@ -703,7 +707,7 @@
     line-height: 24px;
 }
 #about .bg-layer{
-  height:500px !important
+  height:360px !important
 }
 .scroll-top{
   bottom: 150px !important;

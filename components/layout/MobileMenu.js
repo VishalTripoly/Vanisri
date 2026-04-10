@@ -2,7 +2,7 @@
 import Link from "next/link";
 import { useEffect, useState } from "react";
 
-export default function MobileMenu({ handleMobileMenu }) {
+export default function MobileMenu({ handleMobileMenu, handlePopup }) {
   const [active, setActive] = useState("home");
 
   // 🔥 Scroll Detection
@@ -87,6 +87,15 @@ export default function MobileMenu({ handleMobileMenu }) {
           <li className={active === "contact" ? "active" : ""}>
             <Link href="#contact" onClick={() => handleClick("contact")}>
               Contact
+            </Link>
+          </li>
+          <li className="p-2 ms-3">
+            <Link
+              href="/"
+              className="theme-btn btn-one w-50 h-50 search-toggler"
+              onClick={handlePopup}
+            >
+              Appointment
             </Link>
           </li>
         </ul>

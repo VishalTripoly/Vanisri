@@ -4,7 +4,7 @@ import React from 'react'
 export default function About() {
     return (
       <>
-        <section className="page-title p_relative pb-5 mb-5" id="about">
+        <section className="page-title p_relative pb-xl-5 mb-xl-5 mb-1 p-2" id="about">
           <div
             className="bg-layer pb-5"
             style={{

@@ -44,7 +44,7 @@ const swiperOptions = {
 export default function Banner() {
     return (
       <>
-        <section className="banner-section p_relative" id="home">
+        <section className="banner-section p_relative" id="home"> 
           <Swiper
             {...swiperOptions}
             className="swiper-container banner-carousel"
@@ -84,7 +84,7 @@ export default function Banner() {
                         Brightest, clearest vision begins at Vanisri Opticals.
                       </p>
                       <div className="btn-box">
-                        <Link href="#contact" className="theme-btn btn-one">
+                        <Link href="/contact" className="theme-btn btn-one">
                           Contact Now
                         </Link>
                       </div>
@@ -158,7 +158,7 @@ export default function Banner() {
                         at Vanisri Opticals.
                       </p>
                       <div className="btn-box">
-                        <Link href="#contact" className="theme-btn btn-one">
+                        <Link href="/contact" className="theme-btn btn-one">
                           Contact Now
                         </Link>
                       </div>
@@ -197,6 +197,8 @@ export default function Banner() {
               </div>
             </SwiperSlide>
 
+           
+
             <SwiperSlide>
               <div className="slide-item p_relative">
                 <div className="pattern-layer">
@@ -222,20 +224,18 @@ export default function Banner() {
                 <div className="auto-container">
                   <div className="banner-content p_relative d_block">
                     <div className="content-box p_relative d_block z_5">
-                      <h3>
-                        Precision Vision Better with Optical Professionals
-                      </h3>
+                      <h3>Advanced Eye Care and Complete Vision Support</h3>
                       <h2 className="p_relative d_block fs_70 lh_80 fw_bold">
-                        Indulge Your Vision with Distinguished Eye Care Experts
+                        Experience Clearer Sight with Vision Specialists
                       </h2>
                       <p className="p_relative d_block fs_18">
-                        Experience tailored eye care and vision solutions
-                        delivered with precision, warmth in an environment built
-                        on comfort with personal care. Discover sharper,
-                        brighter sight at Vanisri Opticals.
+                        Experience personalized attention and comprehensive
+                        optical eye care solutions in a space designed for
+                        comfort and trust. Your journey to sharper vision begins
+                        at Vanisri Opticals.
                       </p>
                       <div className="btn-box">
-                        <Link href="#contact" className="theme-btn btn-one">
+                        <Link href="/contact" className="theme-btn btn-one">
                           Contact Now
                         </Link>
                       </div>

@@ -123,7 +123,7 @@ export default function Footer1() {
             id="cb_book"
             className="actionbook"
             target="_blank"
-            href="mailto:vanisriopticals@gmail.com"
+            href="mailto:vanisriopticalsh@gmail.com"
           >
             <i className="fa fa-envelope" />
           </a>
