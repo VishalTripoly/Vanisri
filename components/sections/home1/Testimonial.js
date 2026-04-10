@@ -55,7 +55,7 @@ export default function Testimonial() {
               objectFit="contain"
               alt=""
             />
-            <div className="sec-title mb_60">
+            <div className="sec-title mb_30">
               <span className="sub-title">Testimonials</span>
               <h2 className="wow slideInDown" data-wow-delay="00ms">
                 What Our Client Say <br />
@@ -69,7 +69,7 @@ export default function Testimonial() {
               alt=""
             />
           </div>
-          <div className="auto-container p-5">
+          <div className="auto-container px-5 pt-5 pb-1">
             <Swiper
               {...swiperOptions}
               className="swiper-container two-item-carousel"

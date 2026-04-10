@@ -161,7 +161,7 @@
   }
 
   .feature-block-one .inner-box{
-    margin-bottom: 30px;
+    margin-bottom: 10px;
   }
 
   .feature-section .inner-container{
@@ -188,7 +188,8 @@
   }
 
   .funfact-section{
-    padding-bottom: 50px;
+    padding-bottom: 10px !important;
+    padding-top: 10px !important;
   }
 
   .chooseus-section .bg-layer,
@@ -232,6 +233,7 @@
 
   .main-footer .widget-section{
     padding-bottom: 5px;
+    padding-top: 50px !important;
   }
 .footer-bottom{
   padding: 20px 0px;;
@@ -391,11 +393,11 @@
   }
 
   .sec-title h2{
-    font-size: 25px !important;
+    font-size: 24px !important;
     line-height: 30px !important;
   }
 .contact-section .support-box{
-  margin-bottom:50px !important;
+  margin-bottom:30px !important;
 }
   .content_block_three .content-box .text{
     margin-bottom: 5px !important;
@@ -446,8 +448,11 @@
     position: relative;
     font-size: 40px !important;
     line-height: 100px !important;
-     border-top: 1px solid;
+    
   }
+.counter-block-one + .counter-block-one .inner-box .icon-box {
+    border-top: 1px solid;
+}
   .counter-block-one .inner-box .count-outer{
     font-size: 20px !important;
     margin-bottom: -10px !important;
@@ -461,13 +466,15 @@
     padding: 0 0 0 0px !important;
   }
   .chooseus-section{
-    padding: 65px 0px 20px 0px;
+    padding: 45px 0px 0px 0px;
   }
 
   .testimonial-section{
-    padding: 15px 0px;
+    padding: 30px 0px;
   }
-
+.testimonial-section .pattern-layer{
+  bottom:-80px !important;
+}
   .testimonial-section .owl-dots{
     display: none;
   }
@@ -728,6 +735,12 @@
     }
     .sec-title.left .sub-title{
       margin-left: 0px !important;
+    }
+    .copyright p{
+      padding: 0 50px !important;
+    }
+    .sec-title.centred.light.mb_45{
+      margin-bottom:20px !important
     }
 }
 

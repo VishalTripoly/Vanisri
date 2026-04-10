@@ -12,7 +12,17 @@ export default function Footer1() {
                 <div className="col-lg-6 col-md-6 col-sm-12 footer-column">
                   <div className="about-widget footer-widget mr_40">
                     <div className="widget-title">
-                      <h3>About</h3>
+                      <div className="logo-box">
+                        <figure className="logo mb-2">
+                          <Link href="/">
+                            <img
+                              src="assets/images/logo.png"
+                              alt=""
+                              width={250}
+                            />
+                          </Link>
+                        </figure>
+                      </div>
                     </div>
                     <div className="widget-content">
                       <p>
