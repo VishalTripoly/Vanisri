@@ -18,7 +18,7 @@ export default function Header1({ scroll, handleMobileMenu, handlePopup }) {
                     <li>
                       <i className="icon-1"></i>Email:{" "}
                       <Link href="vanisriopticalsh@gmail.com">
-                        vanisriopticalsh@gmail.com
+                        vanisriopticals@gmail.com
                       </Link>
                     </li>
                     <li>
