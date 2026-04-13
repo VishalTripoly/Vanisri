@@ -90,16 +90,18 @@ export default function Footer1() {
                     <div className="widget-content">
                       <ul className="info clearfix">
                         <li>
-                          Address: 1, 11th Cross, Anjaneya Temple, Kilari Rd,
-                          Balepete, Chickpet, Bengaluru, Karnataka 560053
+                          <i class="fas fa-map-marker-alt"></i> : 1, 11th Cross,
+                          Anjaneya Temple, Kilari Rd, Balepete, Chickpet,
+                          Bengaluru, Karnataka 560053
                         </li>
                         <li>
                           <Link href="tel:9035011992">
-                            Call Us - +919035011992
+                            <i class="fas fa-phone-square"></i> : +919035011992
                           </Link>
                         </li>
                         <li>
                           <Link href="mailto:vanisriopticals@gmail.com">
+                            <i class="fas fa-envelope"></i> :
                             vanisriopticals@gmail.com
                           </Link>
                         </li>
@@ -114,7 +116,7 @@ export default function Footer1() {
             <div className="auto-container">
               <div className="copyright">
                 <p>
-                  <Link href="/">Vanisri</Link> &copy;{" "}
+                  <Link href="/">VanisriOpticals</Link> &copy;{" "}
                   {new Date().getFullYear()} All Right Reserved. Designed by{" "}
                   <Link href="https://www.digitaltripolystudio.com/">
                     DigitalTripolyStudio

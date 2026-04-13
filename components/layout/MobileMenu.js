@@ -90,13 +90,11 @@ export default function MobileMenu({ handleMobileMenu, handlePopup }) {
             </Link>
           </li>
           <li className="p-2 ms-3">
-            <Link
-              href="/"
-              className="theme-btn btn-one w-50 h-50 search-toggler"
-              onClick={handlePopup}
-            >
-              Appointment
-            </Link>
+            <div className="btn-box">
+              <button className="theme-btn btn-one" onClick={handlePopup}>
+                Appointment
+              </button>
+            </div>
           </li>
         </ul>
       </nav>

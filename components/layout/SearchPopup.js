@@ -16,9 +16,9 @@ export default function SearchPopup({ isPopup, handlePopup }) {
                   <figure className="logo-box pull-left">
                     <Link href="/">
                       <img
-                        src="assets/images/search-logo.svg"
+                        src="assets/images/logo.png"
                         alt=""
-                        width={88}
+                        width={150}
                       />
                     </Link>
                   </figure>
@@ -68,7 +68,7 @@ export default function SearchPopup({ isPopup, handlePopup }) {
                       <div className="form-group mb-4">
                         <textarea
                           name="message"
-                          placeholder="Message"
+                          placeholder="Message" rows={4} cols={10}
                         ></textarea>
                       </div>
                       <div className="form-group message-btn">

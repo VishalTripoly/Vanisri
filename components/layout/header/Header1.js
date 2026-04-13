@@ -128,7 +128,10 @@ export default function Header1({ scroll, handleMobileMenu, handlePopup }) {
             </div>
           </div>
 
-          <MobileMenu handleMobileMenu={handleMobileMenu} />
+          <MobileMenu
+            handleMobileMenu={handleMobileMenu}
+            handlePopup={handlePopup}
+          />
         </header>
       </>
     );

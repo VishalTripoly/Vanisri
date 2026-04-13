@@ -72,7 +72,12 @@ export default function Contact() {
                       />
                     </div>
                     <div className="form-group mb-4">
-                      <textarea name="message" placeholder="Message"></textarea>
+                      <textarea
+                        name="message"
+                        placeholder="Message"
+                        rows={3}
+                        cols={10}
+                      ></textarea>
                     </div>
                     <div className="form-group message-btn">
                       <button type="submit" className="theme-btn btn-one">
