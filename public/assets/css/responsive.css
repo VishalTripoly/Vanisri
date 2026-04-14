@@ -451,7 +451,7 @@
     
   }
 .counter-block-one + .counter-block-one .inner-box .icon-box {
-    border-top: 1px solid;
+    border-top: 1px solid !important;
 }
   .counter-block-one .inner-box .count-outer{
     font-size: 20px !important;
@@ -596,7 +596,7 @@
   }
 
   .page-title{
-    padding: 80px 0px;
+    padding: 80px 0px !important;
   }
 
   .chooseus-style-two.about-page{
