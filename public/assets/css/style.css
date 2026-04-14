@@ -2378,7 +2378,7 @@ div#mCSB_1_container{
 }
 
 .counter-block-one .inner-box{
-  position: relative;
+  position: relative !important;
   display: block;
   padding: 0px 0px 0px 95px;
 }

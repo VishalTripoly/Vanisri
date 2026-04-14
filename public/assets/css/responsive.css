@@ -466,7 +466,7 @@
     padding: 0 0 0 0px !important;
   }
   .chooseus-section{
-    padding: 45px 0px 0px 0px;
+    padding: 45px 0px 0px 0px !important;
   }
 
   .testimonial-section{
@@ -993,7 +993,7 @@ section.p_relative.pb-5.mb-5{
   }
 
   .chooseus-style-two .video-column .video-inner{
-    padding: 150px 0px;
+    padding: 150px 0px ;
   }
 
   .funfact-style-two .inner-container{
