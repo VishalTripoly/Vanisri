@@ -1,6 +1,7 @@
 'use client'
 import React from 'react'
 import CounterUp from "@/components/elements/CounterUp"
+import Counter from "@/components/elements/Counter";
 
 export default function Funfact() {
     return (
@@ -19,7 +20,7 @@ export default function Funfact() {
                   </div>
                   <div className="count-outer count-box">
                     <span className="count-text" data-speed="1500">
-                      <CounterUp end={4} />
+                      <Counter end={4} />
                     </span>
                   </div>
                   <p>Expert Optometrists</p>
@@ -36,7 +37,7 @@ export default function Funfact() {
                   </div>
                   <div className="count-outer count-box">
                     <span className="count-text" data-speed="1500">
-                      <CounterUp end={5} />
+                      <Counter end={5} />
                     </span>
                   </div>
                   <p>Diffrent Services</p>
@@ -53,7 +54,7 @@ export default function Funfact() {
                   </div>
                   <div className="count-outer count-box">
                     <span className="count-text" data-speed="1500">
-                      <CounterUp end={30000} />
+                      <Counter end={30000} />
                     </span>
                   </div>
                   <p>Happy Patients</p>
@@ -70,7 +71,7 @@ export default function Funfact() {
                   </div>
                   <div className="count-outer count-box">
                     <span className="count-text" data-speed="1500">
-                      <CounterUp end={6} />
+                      <Counter end={6} />
                     </span>
                   </div>
                   <p>Awards Win</p>

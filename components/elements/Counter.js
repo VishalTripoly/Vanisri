@@ -1,56 +1,54 @@
-import { useEffect, useRef, useState } from 'react'
+"use client";
+import { useEffect, useRef, useState } from "react";
 
+export default function Counter({ end, duration = 2 }) {
+  const [count, setCount] = useState(0);
+  const [start, setStart] = useState(false);
+  const ref = useRef(null);
 
-export default function Counter({ end, duration }) {
-    const [count, setCount] = useState(0)
-    const countRef = useRef(null)
-    const increment = end / duration
-
-    useEffect(() => {
-        const observer = new IntersectionObserver(
-            ([entry]) => {
-                if (entry.isIntersecting) {
-                    startCount()
-                    observer.disconnect()
-                }
-            },
-            { threshold: 0 }
-        )
-
-        if (countRef.current) {
-            observer.observe(countRef.current)
+  useEffect(() => {
+    const observer = new IntersectionObserver(
+      ([entry]) => {
+        if (entry.isIntersecting) {
+          setStart(true);
+          observer.disconnect();
         }
+      },
+      { threshold: 0.5 },
+    );
 
-        return () => {
-            observer.disconnect()
-        }
-    }, [])
+    if (ref.current) observer.observe(ref.current);
 
-    useEffect(() => {
-        const interval = setInterval(() => {
-            setCount((prevCount) => {
-                const newCount = prevCount + increment
-                if (newCount >= end) {
-                    clearInterval(interval)
-                    return end
-                } else {
-                    return newCount
-                }
-            })
-        }, 1000 / duration)
+    return () => observer.disconnect();
+  }, []);
 
-        return () => {
-            clearInterval(interval)
-        }
-    }, [end, increment])
+  useEffect(() => {
+    if (!start) return;
 
-    const startCount = () => {
-        setCount(0)
-    }
+    let startTime = null;
 
-    return (
-        <span ref={countRef}>
-            <span>{Math.round(count)}</span>
-        </span>
-    )
+    const animate = (timestamp) => {
+      if (!startTime) startTime = timestamp;
+      const progress = timestamp - startTime;
+
+      const progressRatio = Math.min(progress / (duration * 1000), 1);
+      const current = Math.floor(progressRatio * end);
+
+      setCount(current);
+
+      if (progressRatio < 1) {
+        requestAnimationFrame(animate);
+      } else {
+        setCount(end);
+      }
+    };
+
+    requestAnimationFrame(animate);
+  }, [start, end, duration]);
+
+  return (
+    <span ref={ref} className="count-text">
+      {count}
+    </span>
+  );
 }

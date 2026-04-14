@@ -96,7 +96,7 @@ export default function Footer1() {
                         </li>
                         <li>
                           <Link href="tel:9035011992">
-                            <i class="fas fa-phone-square"></i> : +919035011992
+                            <i class="fas fa-phone"></i> : +919035011992
                           </Link>
                         </li>
                         <li>
