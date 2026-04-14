@@ -23,7 +23,7 @@ export default function About() {
                     US BETTER
                   </h3>
                   <h1
-                    className="sub-title pt-5 wow slideInLeft"
+                    className="sub-title pt-lg-5 pt-3 wow slideInLeft"
                     data-wow-delay="0s"
                   >
                     Latest Generation <br></br> Photochromatic Lenses

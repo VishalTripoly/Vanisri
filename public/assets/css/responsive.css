@@ -714,7 +714,7 @@
     line-height: 24px;
 }
 #about .bg-layer{
-  height:360px !important
+  height:340px !important
 }
 .scroll-top{
   bottom: 150px !important;
@@ -809,8 +809,8 @@
   }
 
   .page-title .content-box h1{
-    font-size: 25px !important;
-    line-height: 30px !important;
+    font-size: 22px !important;
+    line-height: 28px !important;
   }
   /* new */
   .header-top{
