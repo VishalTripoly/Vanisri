@@ -4,12 +4,12 @@ import React from 'react'
 export default function About() {
     return (
       <>
-        <section className="page-title p_relative pb-xl-5 mb-xl-5 mb-1 p-2" id="about">
+        <section className="page-title p_relative " id="about">
           <div
             className="bg-layer pb-5"
             style={{
               backgroundImage: "url(/assets/images/banner/Lens-Banner.png)",
-              height: "600px",
+              height: "500px",
               backgroundRepeat: "no-repeat",
               width: "100%",
             }}

@@ -880,7 +880,7 @@
 }
 section#about {
   display: block !important;
-    margin: 0 0 120px 0;
+   padding: 10px 0 50px 0 !important;
     padding-bottom: 80px !important;
 }
 section.p_relative.pb-5.mb-5{
