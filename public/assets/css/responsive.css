@@ -445,7 +445,7 @@
   }
 
   .counter-block-one .inner-box .icon-box{
-    position: relative;
+    position: relative !important;
     font-size: 40px !important;
     line-height: 100px !important;
     
