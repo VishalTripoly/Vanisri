@@ -826,7 +826,7 @@ img {
   color: #fff;
   cursor: pointer;
   z-index: 5;
-  top: 11px;
+  /* top: 11px; */
   transition: all 500ms ease;
 }
 
