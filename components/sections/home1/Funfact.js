@@ -1,7 +1,6 @@
 'use client'
 import React from 'react'
 import CounterUp from "@/components/elements/CounterUp"
-import Counter from "@/components/elements/Counter";
 
 export default function Funfact() {
     return (
@@ -71,7 +70,7 @@ export default function Funfact() {
                   </div>
                   <div className="count-outer count-box">
                     <span className="count-text" data-speed="1500">
-                      <Counter end={6} />
+                      <CounterUp end={6} />
                     </span>
                   </div>
                   <p>Awards Win</p>
